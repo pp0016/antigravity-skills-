@@ -1,0 +1,142 @@
+{
+  "bundleChecksum": "ae17eac5bf864e5c689dd8208117aefb0b412f17c7b29befa2f156c2c783e651",
+  "skills": {
+    "accidental-data-loss-prevention": {
+      "status": "installed",
+      "checksum": "b8f858f8143114ed9189b29ea8af1672378d66db3b8c92c5ec1b23712141ef1b"
+    },
+    "bigquery-ai-ml": {
+      "status": "uninstalled",
+      "checksum": "",
+      "disabled": true
+    },
+    "bigquery-bigframes": {
+      "status": "uninstalled",
+      "checksum": "",
+      "disabled": true
+    },
+    "bigquery-data-transfer-service": {
+      "status": "uninstalled",
+      "checksum": "",
+      "disabled": true
+    },
+    "bigquery-graph": {
+      "status": "uninstalled",
+      "checksum": "",
+      "disabled": true
+    },
+    "bigquery-sql": {
+      "status": "uninstalled",
+      "checksum": "",
+      "disabled": true
+    },
+    "building-data-apps": {
+      "status": "uninstalled",
+      "checksum": "",
+      "disabled": true
+    },
+    "data-autocleaning": {
+      "status": "uninstalled",
+      "checksum": "",
+      "disabled": true
+    },
+    "dataform-bigquery": {
+      "status": "uninstalled",
+      "checksum": "",
+      "disabled": true
+    },
+    "dbt-bigquery": {
+      "status": "uninstalled",
+      "checksum": "",
+      "disabled": true
+    },
+    "discovering-gcp-data-assets": {
+      "status": "installed",
+      "checksum": "553a6cd984882b1a63782885c54c0120f40de214c11fdbf46ec05e6acbf88840"
+    },
+    "enforcing-resource-attribution": {
+      "status": "installed",
+      "checksum": "9b65878e9635443b17b01ab78a06e459df77763b325f95fe592a783c1c60a645"
+    },
+    "federate-lakehouse-catalog": {
+      "status": "installed",
+      "checksum": "c1e071ca3d8c9eaa42ae814f2d4ae2e5e12f3e0f289367c74ced4d87ccf157d3"
+    },
+    "gcloud-auth-verification": {
+      "status": "uninstalled",
+      "checksum": "",
+      "disabled": true
+    },
+    "gcp-composer-troubleshooting": {
+      "status": "uninstalled",
+      "checksum": "",
+      "disabled": true
+    },
+    "gcp-data-pipelines": {
+      "status": "uninstalled",
+      "checksum": "",
+      "disabled": true
+    },
+    "gcp-dataflow": {
+      "status": "uninstalled",
+      "checksum": "",
+      "disabled": true
+    },
+    "gcp-managed-airflow-dag-authoring": {
+      "status": "uninstalled",
+      "checksum": "",
+      "disabled": true
+    },
+    "gcp-managed-airflow-migrations": {
+      "status": "uninstalled",
+      "checksum": "",
+      "disabled": true
+    },
+    "gcp-managed-airflow-recommendations": {
+      "status": "uninstalled",
+      "checksum": "",
+      "disabled": true
+    },
+    "gcp-pipeline-orchestration": {
+      "status": "uninstalled",
+      "checksum": "",
+      "disabled": true
+    },
+    "gcp-pipeline-resource-provisioning": {
+      "status": "uninstalled",
+      "checksum": "",
+      "disabled": true
+    },
+    "gcp-spark": {
+      "status": "uninstalled",
+      "checksum": "",
+      "disabled": true
+    },
+    "gcs-security-assessment": {
+      "status": "uninstalled",
+      "checksum": "",
+      "disabled": true
+    },
+    "google-cloud-storage-basics": {
+      "status": "uninstalled",
+      "checksum": "",
+      "disabled": true
+    },
+    "managing-python-dependencies": {
+      "status": "installed",
+      "checksum": "04a1ab128e1167a02a605d6b1459d9512c4a58cfeb81a8f5303e814eafe089ef"
+    },
+    "ml-best-practices": {
+      "status": "installed",
+      "checksum": "d3f2134aed8ce5865776363a5e0d704de0166970bca121ace8bdfaa28c8cf213"
+    },
+    "notebook-guidance": {
+      "status": "installed",
+      "checksum": "b7ef387087342eaa4a6db2bec83b7ade8fd9fdf096951266737709a3199debe3"
+    },
+    "skill-repair": {
+      "status": "installed",
+      "checksum": "276efcab0cdeb25cb412644bcf0fd5fb827f4873b44a6ba24f4e49e035d25c3e"
+    }
+  }
+}
