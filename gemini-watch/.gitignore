@@ -1,0 +1,11 @@
+__pycache__/
+*.py[cod]
+transcripts/*.txt
+.claude-video/
+.claude/
+.env
+audio.mp3
+*.mp4
+*.vtt
+*.info.json
+frames/
