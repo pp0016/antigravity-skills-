@@ -186,6 +186,15 @@ dont use this example prompt create you own cousmised prompt based on requiement
 | Find outlier videos | **vidIQ** | `outliers` |
 | Channel analytics | **vidIQ** | `channel_analytics` |
 | Subscriber insights | **vidIQ** | `subscriber_insights` |
-| Batch research (5+ questions) | **vidIQ Web** | AI Coach batching trick (10 credits) |
+189: | Batch research (5+ questions) | **vidIQ Web** | AI Coach batching trick (10 credits) |
+
+### vidIQ Web AI Coach Prompt Requirement
+Whenever generating a prompt for the user to paste into the vidIQ web AI Coach (`app.vidiq.com`), ALWAYS automatically append:
+```text
+==================================================
+MANDATORY DELIVERY REQUIREMENT:
+==================================================
+Deliver the complete, unabridged response in full directly in the chat text AND format/provide it ready for export as a clean DOCX document. Do not truncate, summarize, or omit any section.
+```
 
 vidIQ for estimate, NexLev for precise RPM so we can use nexlev for precise rpm when required Recommend me Based on the work requirement 

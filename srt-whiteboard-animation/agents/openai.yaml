@@ -1,0 +1,4 @@
+interface:
+  display_name: "SRT Whiteboard Animation"
+  short_description: "Transform SRT subtitles into previewable, adjustable stream-drawn whiteboard animations"
+  default_prompt: "Use $srt-whiteboard-animation to generate a whiteboard hand-drawn animation based on this SRT subtitle file."

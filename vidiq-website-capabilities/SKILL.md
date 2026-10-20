@@ -214,3 +214,14 @@ When the user wants to use vidIQ's website for their faceless channel workflow:
    description templates
 5. **Post-upload** → Use channel audit, competitor tracking, daily ideas for
    ongoing optimization
+
+## Mandatory Output Directive for All vidIQ Web Prompts
+
+**CRITICAL RULE:** Whenever crafting or generating ANY prompt for the user to paste into the vidIQ web interface (`app.vidiq.com` AI Coach or chat), the agent MUST ALWAYS automatically append the following mandatory delivery requirement at the very end of the prompt so the user never has to ask for it:
+
+```text
+==================================================
+MANDATORY DELIVERY REQUIREMENT:
+==================================================
+Deliver the complete, unabridged response in full directly in the chat text AND format/provide it ready for export as a clean DOCX document. Do not truncate, summarize, or omit any section.
+```

@@ -1,0 +1,16 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Video files (ignored per user policy)
+*.mp4
+*.mov
+*.avi
+*.mkv
+*.webm
+
+# OS
+Thumbs.db
+.DS_Store
